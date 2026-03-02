@@ -40,7 +40,6 @@ Click **Open Configuration** in the plugin settings. From there you can:
 Preview buttons let you hear each phrase before saving.
 
 ![VOIP-Caster configuration panel](https://github.com/user-attachments/assets/c45e2247-bc51-4b60-b42e-e57b80e2cf5b)
-png)
 
 ---
 
