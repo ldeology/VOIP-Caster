@@ -17,7 +17,7 @@ Built because constantly glancing at Discord to see who's in VC or who is muted 
 ## Installation
 
 1. Install [BetterDiscord](https://betterdiscord.app) if you haven't already
-2. Download [VOIP-Caster.plugin.js]()
+2. Download [VOIPcaster.plugin.js](https://github.com/ldeology/VOIP-Caster/blob/main/VOIPcaster.plugin.js)
 3. Drop it into your BetterDiscord plugins folder:
    - **Windows** — `%appdata%\BetterDiscord\plugins`
    - **Mac** — `~/Library/Application Support/BetterDiscord/plugins`
