@@ -1,5 +1,5 @@
 # VOIP-Caster
-![Downloads](https://img.shields.io/github/downloads/ldeology/VOIP-Caster/total?style=flat-square&label=downloads&color=4c9be8)
+![Downloads](https://img.shields.io/github/downloads/ldeology/VOIP-Caster/total?style=flat-square&label=Downloads&color=4c9be8)
 
 A BetterDiscord plugin that uses your systems text-to-speech to announce voice channel activity out loud. Someone joins, leaves, mutes, or starts sharing their screen, you'll hear it, no matter what you're doing.
 
