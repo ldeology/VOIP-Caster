@@ -6,6 +6,11 @@ Built because constantly glancing at Discord to see who's in VC or who is muted 
 
 ---
 
+![Downloads](https://img.shields.io/github/downloads/ldeology/VOIP-Caster/total?style=flat-square&label=downloads&color=4c9be8)
+![Release](https://img.shields.io/github/v/release/ldeology/VOIP-Caster?style=flat-square&label=latest&color=4c9be8)
+
+---
+
 ## What it does
 
 - Announces joins, leaves, mutes, unmutes, deafens, and screen shares
