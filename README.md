@@ -32,9 +32,9 @@ Built because constantly glancing at Discord to see who's in VC or who is muted 
 Click **Open Configuration** in the plugin settings. From there you can:
 
 - Toggle which events get announced
-- Set a custom phrase for each event — use `{name}` where the username should go
+- Set a custom phrase for each event - use `{name}` where the username should go
 - Pick a voice, adjust volume, speed, and pitch
-- Set a per-user cooldown so it doesn't spam you
+- Set a cooldown so it doesn't spam you
 
 Preview buttons let you hear each phrase before saving.
 
