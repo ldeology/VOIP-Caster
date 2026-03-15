@@ -51,7 +51,7 @@ VOIP-Caster uses BetterDiscord's built-in update system. When a new version is p
 
 ## Known Issues
 
-- None reported yet
+15/3/2026: Unable to change voice announcement presets. 
 
 ---
 
